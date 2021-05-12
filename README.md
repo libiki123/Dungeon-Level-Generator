@@ -20,5 +20,5 @@ Random Dungeon and Level Generator for 2D games
 <img src="Images/sc3.png" height='230x' width='400'/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="Images/sc4.png" height='230x' width='400'/>
 
-<img src="Images/sc1.png" height='230x' width='400'/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="Images/sc2.png" height='230x' width='400'/>
+<img src="Images/sc1.png" height='230x' width='550'/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Images/sc2.png" height='230x' width='550'/>
